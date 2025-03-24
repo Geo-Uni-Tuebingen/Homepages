@@ -1,4 +1,4 @@
-# Impressum für die Seite "Satellitenbilder im Unterricht
+# Impressum für die Seite "Satellitenbilder im Unterricht"
 https://134.2.216.52/#/
 
 **Angaben gemäß § 5 TMG**
