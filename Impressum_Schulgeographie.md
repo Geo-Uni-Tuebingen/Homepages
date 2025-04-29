@@ -43,12 +43,12 @@ Sie haben das Recht auf Auskunft, Berichtigung, Löschung oder Einschränkung de
 
 ---
 
-# Nutzungsbedingungen
+# Urheberrechtshinweise / Nutzungsbedingungen
 
 Alle auf dieser Plattform veröffentlichten Materialien (Dokumente, Arbeitsblätter, Module etc.) stehen unter der **Creative Commons Lizenz CC BY 4.0**. Das bedeutet:
 
 - Die Materialien dürfen frei verwendet, verändert und weiterverbreitet werden.
 - Voraussetzung ist die **Namensnennung der Quelle**:  
-  *Arbeitsgruppe Geoinformatik, Universität Tübingen / GeoNode-Plattform „Satellitendaten im Unterricht“*
+  *Arbeitsgruppe Geoinformatik, Universität Tübingen / „Satellitendaten im Unterricht“*
 
 Eine kommerzielle Nutzung ist im Rahmen der Lizenz erlaubt. Bei Fragen zur Nutzung oder bei Rückmeldungen kontaktieren Sie bitte [an.braun@uni-tuebingen.de](mailto:an.braun@uni-tuebingen.de).
