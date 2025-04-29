@@ -26,7 +26,7 @@ Telefon: 07071 / 29-5378
 
 # Datenschutzerklärung
 
-Der Schutz Ihrer persönlichen Daten ist uns ein besonderes Anliegen. Die Nutzung unserer GeoNode-Plattform ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit personenbezogene Daten (beispielsweise Name, Anschrift oder E-Mail-Adressen) erhoben werden, erfolgt dies stets auf freiwilliger Basis und im Rahmen der geltenden datenschutzrechtlichen Vorschriften, insbesondere der Datenschutz-Grundverordnung (DSGVO).
+Der Schutz Ihrer persönlichen Daten ist uns ein besonderes Anliegen. Die Nutzung der GeoNode-Plattform ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit personenbezogene Daten (beispielsweise Name, Anschrift oder E-Mail-Adressen) erhoben werden, erfolgt dies stets auf freiwilliger Basis und im Rahmen der geltenden datenschutzrechtlichen Vorschriften, insbesondere der Datenschutz-Grundverordnung (DSGVO).
 
 **Verantwortlich für die Datenverarbeitung:**  
 Universität Tübingen  
