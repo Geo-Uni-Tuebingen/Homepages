@@ -1,9 +1,7 @@
 # Impressum für die Seite "Satellitenbilder im Unterricht"
 https://134.2.216.52/#/
 
-**Angaben gemäß § 5 TMG**  ## kein Hinweis auf Gesetzte
-
-Satellitenbilder im Unterrich - eine Kooperation zwischen der Arbeitsgruppe Geoinformatik und... im Rahmen
+Satellitenbilder im Unterricht - Eine Kooperation zwischen der Arbeitsgruppe Geoinformatik am Geographischen Institut der Universität Tübingen und dem Zentrum für Schulqualität und Lehrerbildung (ZSL). Gefördert im Rahmen von Fortbildungsangeboten zu digitalen Medien im Fachunterricht im Bereich Geographie mit dem Schwerpunkt Fernerkundung (GIS).
 
 Die Universität Tübingen ist eine Körperschaft des öffentlichen Rechts. Sie wird durch die Rektorin Prof. Dr. Dr. h.c. (Dōshisha) Karla Pollmann (E-Mail: rektorin@uni-tuebingen.de) gesetzlich vertreten; Umsatzsteuer-Identifikationsnummer gemäß § 27a Umsatzsteuergesetz: DE812383453
 
