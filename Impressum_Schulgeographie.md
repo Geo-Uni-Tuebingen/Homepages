@@ -11,15 +11,15 @@ Forschungsbereiche Geographie
 Rümelinstraße 19–23  
 72070 Tübingen  
 Deutschland
-E-Mail: [an.braun@uni-tuebingen.de](mailto:an.braun@uni-tuebingen.de)
+E-Mail: [an.braun@uni-tuebingen.de](mailto:an.braun@uni-tuebingen.de) <br>
 Telefon: 07071 / 29-78940
 
 
 **Inhaltlich verantwortlich gemäß § 18 Abs. 2 MStV:**  
-Prof. Dr. Volher Hochschild
-Rümelinstraße 19–23  
+Prof. Dr. Volher Hochschild <br/>
+Rümelinstraße 19–23  <br/>
 72070 Tübingen
-E-Mail: [volker.hochschild@uni-tuebingen.de](mailto:volker.hochschild@uni-tuebingen.de)
+E-Mail: [volker.hochschild@uni-tuebingen.de](mailto:volker.hochschild@uni-tuebingen.de) <br/>
 Telefon: 07071 / 29-5378
 
 ---
