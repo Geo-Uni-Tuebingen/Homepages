@@ -1,30 +1,28 @@
 # Impressum für die Seite "Satellitenbilder im Unterricht"
 https://134.2.216.52/#/
 
-**Angaben gemäß § 5 TMG**
+**Angaben gemäß § 5 TMG**  ## kein Hinweis auf Gesetzte
 
+Satellitenbilder im Unterrich - eine Kooperation zwischen der Arbeitsgruppe Geoinformatik und... im Rahmen
+
+Die Universität Tübingen ist eine Körperschaft des öffentlichen Rechts. Sie wird durch die Rektorin Prof. Dr. Dr. h.c. (Dōshisha) Karla Pollmann (E-Mail: rektorin@uni-tuebingen.de) gesetzlich vertreten; Umsatzsteuer-Identifikationsnummer gemäß § 27a Umsatzsteuergesetz: DE812383453
+
+**Kontakt:**  
 Universität Tübingen  
 Forschungsbereiche Geographie  
 Rümelinstraße 19–23  
 72070 Tübingen  
 Deutschland
-
-**Vertreten durch:**  
-Arbeitsgruppe Geoinformatik  
-(Prof. Dr. Volker Hochschild  
-Lehrstuhl Physische Geographie und Geographische Informationssysteme)
-
-**Kontakt:**  
 E-Mail: [an.braun@uni-tuebingen.de](mailto:an.braun@uni-tuebingen.de)
+Telefon: 07071 / 29-78940
 
-**Umsatzsteuer-ID:**  
-Umsatzsteuer-Identifikationsnummer gemäß § 27a Umsatzsteuergesetz: DE812383453
 
 **Inhaltlich verantwortlich gemäß § 18 Abs. 2 MStV:**  
-Arbeitsgruppe Geoinformatik  
-(Prof. Dr. Volher Hochschild)  
+Prof. Dr. Volher Hochschild
 Rümelinstraße 19–23  
 72070 Tübingen
+E-Mail: [volker.hochschild@uni-tuebingen.de](mailto:volker.hochschild@uni-tuebingen.de)
+Telefon: 07071 / 29-5378
 
 ---
 
