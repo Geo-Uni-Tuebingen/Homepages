@@ -20,7 +20,7 @@ Prof. Dr. Volker Hochschild <br/>
 Rümelinstraße 19–23  <br/>
 72070 Tübingen <br/>
 E-Mail: [volker.hochschild@uni-tuebingen.de](mailto:volker.hochschild@uni-tuebingen.de) <br/>
-Telefon: 07071 / 29-5378
+Telefon: 07071 / 29-75316
 
 ---
 
