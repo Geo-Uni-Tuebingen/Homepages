@@ -16,7 +16,7 @@ Telefon: 07071 / 29-78940
 
 
 **Inhaltlich verantwortlich gemäß § 18 Abs. 2 MStV:**  
-Prof. Dr. Volher Hochschild <br/>
+Prof. Dr. Volker Hochschild <br/>
 Rümelinstraße 19–23  <br/>
 72070 Tübingen <br/>
 E-Mail: [volker.hochschild@uni-tuebingen.de](mailto:volker.hochschild@uni-tuebingen.de) <br/>
